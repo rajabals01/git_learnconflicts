@@ -1,1 +1,1 @@
-updated the file1_main.txt in branch1
+file1_main.txt updated from branch 2
